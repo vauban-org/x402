@@ -5,7 +5,7 @@ description = "Python MCP client for x402 e2e tests"
 requires-python = ">=3.10"
 dependencies = [
     "python-dotenv>=1.0.0",
-    "mcp>=1.9.0",
+    "mcp>=1.28.1",
     "x402[evm,tvm,mcp]"
 ]
 
