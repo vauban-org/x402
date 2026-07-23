@@ -10,7 +10,7 @@
     "lint:check": "eslint . --ext .ts"
   },
   "dependencies": {
-    "@hono/node-server": "^1.14.0",
+    "@hono/node-server": "^2.0.10",
     "@x402/aptos": "workspace:*",
     "@x402/avm": "workspace:*",
     "@x402/core": "workspace:*",
